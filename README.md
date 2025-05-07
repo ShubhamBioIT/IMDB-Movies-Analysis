@@ -6,8 +6,8 @@ It includes Exploratory Data Analysis (EDA) of over 1000 movies from the IMDb da
 
 ## 📌 Notebooks
 
-- `imdb_reference_notebook.ipynb`: The reference notebook provided by the company
-- `imdb_my_analysis.ipynb`: My unique analysis with additional questions, visualizations, and insights
+- `IMDB_Reference_notebook.ipynb`: The reference notebook provided by the company
+- `IMDB_My_analysis.ipynb`: My unique analysis with additional questions, visualizations, and insights
 
 ## 🔍 Highlights
 
@@ -30,5 +30,5 @@ It includes Exploratory Data Analysis (EDA) of over 1000 movies from the IMDb da
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/imdb-movie-analysis.git
-   cd imdb-movie-analysis
+   git clone https://github.com/yourusername/IMDB-Movie-Analysis.git
+   cd IMDB-Movie-Analysis
