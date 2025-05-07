@@ -20,7 +20,7 @@ It includes Exploratory Data Analysis (EDA) of over 1000 movies from the IMDb da
 
 ## 🛠️ Tools & Libraries
 
-- Python 3.x
+- Python 3.13
 - Pandas
 - NumPy
 - Matplotlib
